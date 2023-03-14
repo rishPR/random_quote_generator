@@ -8,7 +8,7 @@ Clone the repository to your local machine using Git.
 Navigate to the project directory in your terminal or command prompt.
 Run npm install to install the necessary dependencies.
 Run npm start to start the server.
-Open a web browser and navigate to http://localhost:3000/ to view the application.
+Open a web browser and navigate to http://localhost:4400/ to view the application.
 
 
 Usage :
