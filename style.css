@@ -1,0 +1,17 @@
+@font-face { font-family: barcelony; src: url("barcelony/Barcelony.ttf"); } 
+
+body{
+    background-color: aqua;
+    text-align: center;
+}
+.top{
+    font-size: 6rem;
+}
+.quote{
+    font-size: 2rem;
+    font-family: 'barcelony';
+}
+.author{
+    font-size: 1rem;
+    font-family: 'barcelony';
+}
